@@ -130,3 +130,9 @@ describe "the greet function" do
     expect(greet("Bob")).to eq("Hello, Bob!")
   end
 end
+
+describe 'caluclator does basic math' do
+  it 'adds 2 numbers'
+  it 'subtracts 2 numbers'
+  it 'handles more than 2 numbers' 
+end
