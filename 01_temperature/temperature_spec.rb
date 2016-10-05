@@ -15,7 +15,7 @@
 #    1.0 / 2.0 => 0.5
 #
 
-require "temperature"
+require "C:/Users/Brian/Documents/_TTS Files/srb/learn_ruby/01_temperature/temperature.rb"
 
 describe "temperature conversion functions" do
 

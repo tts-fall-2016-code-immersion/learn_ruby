@@ -113,7 +113,7 @@
 #       "Hello, #{who}!"
 #     end
 #
-require "hello"
+require "C:/Users/Brian/Documents/_TTS Files/srb/learn_ruby/00_hello/hello.rb"
 
 describe "the hello function" do
   it "says hello" do
